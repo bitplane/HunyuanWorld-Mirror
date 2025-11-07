@@ -1,3 +1,11 @@
+# Notes
+
+For Python 3.12 / 3.13:
+
+* Use [my build of Open3D](https://github.com/bitplane/Open3D/)
+* `TORCH_CUDA_ARCH_LIST="8.9+PTX"` to downgrade nvcc build to run on a 5090
+
+
 [中文阅读](README_zh.md)
 # **HunyuanWorld-Mirror**
 
